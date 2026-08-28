@@ -2,8 +2,8 @@
 
 **Kookmin University, Software Engineering** (2022 – 2026)
 
-Interested in **embedded systems**, **robotics**, and **IoT**.  
-Currently working on indoor autonomous navigation with ROS2 & SLAM.
+Interested in **embedded systems**, **IoT**, and **autonomous robotics**.  
+Building from sensor-level firmware to ROS2-based autonomous navigation.
 
 ---
 
